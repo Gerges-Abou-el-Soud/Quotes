@@ -1,0 +1,43 @@
+body{
+    background-color: #8e7af4;
+}
+
+#container {
+    background-color:#8b8ff6 ;
+    border: 5px solid #fff;
+    height:50%;
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#container h1 {
+    color: #fff;
+    font-weight: 900;
+    font-size: 50px;
+}
+
+#container p {
+    color: #fff;
+    margin-top: 50px;
+    font-weight: 500;
+    font-size: 30px;
+}
+
+#btn {
+    margin: 50px auto;
+    height: 50px;
+    width: 250px;
+    font-size: 22px;
+    background-color: #6a6ed4;
+    border: 2px solid #fff;
+    color: #fff;
+    border-radius: 5px;
+}
+
+
+#output {
+    margin: 25px auto;
+    font-size: 26px;
+    color: #fff;
+}
